@@ -1,0 +1,13 @@
+                  ------------ Crazy Eights ------------
+In this game you will be dealt 7 cards and each turn you will have the 
+opportunity to play a card. In order to play a card it must match either the 
+suit or numeric value of the previously played card. This rule can be broken 
+if the card that is being played is an 8. When an 8 is played the player who 
+played it may designate the suit of the card that must be played next. 
+
+From there play continues, player by player, until one player is out of cards. 
+
+If a player cannot play a card on their turn they must draw one card. It is 
+then the next player's turn. 
+
+Enjoy the game!

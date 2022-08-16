@@ -1,0 +1,33 @@
+                 ------------ Uno ------------
+In this game you will be dealt 7 cards and each turn you will have the
+opportunity to play a card. In order to play a card it must match either the
+colour or numeric value of the previously played card. Uno also have Wild
+Cards: Skip, +2, +4 Change Colour, Change Colour and Reverse. Explained below:
+
+Wild Draw 4
+This card allows the player to choose a colour card to be played and requests
+the next player to grab 4 cards from the draw pile.
+
+Wild
+This card allows the player to choose a colour to be played, even if it is the
+same colour as the card that is currently on the top of the discard pile.
+
+Draw Two
+When this card is played, the next player must grab 2 cards from the draw pile.
+This card can only be played on a matching colour. Or on another Draw two card.
+
+Skip
+When this card is played, the next player skips their turn. This card can only
+be played on a matching colour. Or on another Skip card.
+
+Reverse
+This card reverses the direction of the play. Play to the left now passes to
+the right, and vice versa. This card can only be played on a matching colour.
+Or on another Reverse card.
+
+From there play continues, player by player, until one player is out of cards.
+
+If a player cannot play a card on their turn they must draw one card. It is
+then the next player's turn.
+
+Enjoy the game!
